@@ -1,0 +1,28 @@
+div {
+    text-align: center;
+}
+
+h1{
+    font-size: 80px;
+    font-family: Impact;
+    color: black;
+    margin:54px 0 54px 0 ;
+}
+
+p {
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 35px 0;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+
+button:hover{
+    background-color: green;
+
+}
